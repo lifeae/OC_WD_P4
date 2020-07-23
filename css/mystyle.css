@@ -1,0 +1,8 @@
+blockquote p {
+  font-size: 2rem;
+  font-style: italic;
+}
+
+blockquote footer {
+  font-size: 1.5rem;
+}
