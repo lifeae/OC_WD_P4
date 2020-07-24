@@ -6,3 +6,20 @@ blockquote p {
 blockquote footer {
   font-size: 1.5rem;
 }
+
+.visually-hidden {
+  clip: rect(1px, 1px, 1px, 1px);
+  height: 1px;
+  overflow: hidden;
+  position: absolute;
+  white-space: nowrap;
+  width: 1px;
+}
+
+.visually-hidden {
+  clip: auto;
+  height: auto;
+  overflow: auto;
+  position: absolute;
+  width: auto;
+}
