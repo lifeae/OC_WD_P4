@@ -838,6 +838,10 @@ font-size: 1.5rem;
 color: #595959;
 }
 
+.m-auto {
+    margin: auto;
+}
+
 @media (max-width: 1024px) {
     .bloc {
         padding-left: 20px;
